@@ -1,4 +1,4 @@
-# JavaScript Millionaire CLI Tool
+# Another random CLI Tool
 
 A super fancy CLI tool. 
 
@@ -7,7 +7,7 @@ A super fancy CLI tool.
 
 ```
 Go to your CLI/terminal
-and run the following command
+Run the following command
 npx ricks1008
 ```
 
